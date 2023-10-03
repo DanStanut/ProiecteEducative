@@ -1,1 +1,1 @@
-# ProiecteEducative
+# TrainingProjects
